@@ -6,7 +6,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[Global.asax.cs](./CS/CustomizeTemplate.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/CustomizeTemplate.Web/Global.asax.vb))**
+- [Global.asax.cs](CS/CustomWebTemplate/CustomWebTemplate.Web/Global.asax.cs)
+- [MyDefaultVerticalTemplateContent.ascx](CS/CustomWebTemplate/CustomWebTemplate.Web/MyDefaultVerticalTemplateContent.ascx)
 <!-- default file list end -->
 # How to: Customize an ASP.NET Template
 
