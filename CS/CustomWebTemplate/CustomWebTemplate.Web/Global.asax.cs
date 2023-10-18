@@ -31,6 +31,7 @@ namespace CustomWebTemplate.Web {
             WebApplication.Instance.Settings.DefaultVerticalTemplateContentPath =
     "MyDefaultVerticalTemplateContent.ascx";
             DevExpress.ExpressApp.Web.Templates.DefaultVerticalTemplateContentNew.ClearSizeLimit();
+            MyDefaultVerticalTemplateContent.ClearSizeLimit();
             WebApplication.Instance.SwitchToNewStyle();
             if(ConfigurationManager.ConnectionStrings["ConnectionString"] != null) {
                 WebApplication.Instance.ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
