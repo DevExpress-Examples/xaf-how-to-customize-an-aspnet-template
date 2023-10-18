@@ -166,6 +166,24 @@ namespace CustomWebTemplate.Web {
         protected global::DevExpress.ExpressApp.Web.Templates.ActionContainers.ActionContainerHolder SearchAC;
 
         /// <summary>
+        /// XafUpdatePanel3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::DevExpress.ExpressApp.Web.Templates.XafUpdatePanel XafUpdatePanel3;
+
+        /// <summary>
+        /// NavigationHistoryActionContainer control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::DevExpress.ExpressApp.Web.Templates.ActionContainers.NavigationHistoryActionContainer NavigationHistoryActionContainer;
+
+        /// <summary>
         /// UPEI control.
         /// </summary>
         /// <remarks>

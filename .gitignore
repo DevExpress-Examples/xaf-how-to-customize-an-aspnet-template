@@ -74,6 +74,9 @@ artifacts/
 *.svclog
 *.scc
 CSOld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
 
 # Chutzpah Test files
 _Chutzpah*

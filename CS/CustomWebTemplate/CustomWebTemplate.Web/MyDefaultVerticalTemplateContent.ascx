@@ -52,6 +52,7 @@
                         </div>
                     </td>
                 </tr>
+  
             </tbody>
         </table>
     </div>
@@ -141,8 +142,17 @@
                             </table>
                         </td>
                     </tr>
+                   
                 </tbody>
             </table>
+        </div>
+        <div id="viewSite2" class="width100 viewSite" style="float: left">
+            <xaf:XafUpdatePanel ID="XafUpdatePanel3" runat="server">
+    <xaf:NavigationHistoryActionContainer runat="server" 
+        ContainerId="ViewsHistoryNavigation" 
+        id ="NavigationHistoryActionContainer" 
+        Delimiter=" / " />
+</xaf:XafUpdatePanel>
         </div>
         <div id="viewSite" class="width100 viewSite" style="float: left">
             <xaf:XafUpdatePanel ID="UPEI" runat="server" UpdatePanelForASPxGridListCallback="True">
