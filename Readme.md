@@ -3,13 +3,14 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# How to add navigation history element to a custom ASP.NET Template
+# XAF - How to add navigation history element to a custom ASP.NET Template
 
 This examples shows how to create a custom ASP.NET template and add the NavigationHistoryActionContainer to it.
-![image](https://github.com/DevExpress-Examples/XAF_how-to-customize-an-aspnet-template-e4359/assets/14300209/1bd1edaa-cc54-4b0c-b930-cf72b58ce2ea)
+<kbd>![image](https://github.com/DevExpress-Examples/XAF_how-to-customize-an-aspnet-template-e4359/assets/14300209/1bd1edaa-cc54-4b0c-b930-cf72b58ce2ea)<\kbd>
 
 ## Implementation Details
-The complete description is available here: [How to: Customize an ASP.NET Web Forms Template](https://docs.devexpress.com/eXpressAppFramework/113460/ui-construction/templates/in-webforms/how-to-customize-an-asp-net-template)
+
+For instructions, refer to the following topic: [How to: Customize an ASP.NET Web Forms Template](https://docs.devexpress.com/eXpressAppFramework/113460/ui-construction/templates/in-webforms/how-to-customize-an-asp-net-template).
 
 
 ## Files to Review
