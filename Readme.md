@@ -5,7 +5,7 @@
 
 # XAF - How to add a navigation history element to a custom ASP.NET Template
 
-This examples shows how to create a custom ASP.NET template and add the NavigationHistoryActionContainer to it.
+This example shows how to create a custom ASP.NET template and add NavigationHistoryActionContainer to it.
 <kbd>![image](https://github.com/DevExpress-Examples/XAF_how-to-customize-an-aspnet-template-e4359/assets/14300209/1bd1edaa-cc54-4b0c-b930-cf72b58ce2ea)</kbd>
 
 ## Implementation Details
