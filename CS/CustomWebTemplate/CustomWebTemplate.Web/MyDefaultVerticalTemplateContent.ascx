@@ -1,12 +1,12 @@
 ﻿<%@ Control Language="C#" CodeBehind="MyDefaultVerticalTemplateContent.ascx.cs" ClassName="MyDefaultVerticalTemplateContent" Inherits="CustomWebTemplate.Web.MyDefaultVerticalTemplateContent" %>
-<%@ Register Assembly="DevExpress.Web.v23.1, Version=23.1.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Templates.ActionContainers"
+<%@ Register Assembly="DevExpress.Web.v23.1, Version=23.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Templates.ActionContainers"
     TagPrefix="xaf" %>
-<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Templates"
+<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Templates"
     TagPrefix="xaf" %>
-<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Controls"
+<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Controls"
     TagPrefix="xaf" %>
-<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Templates.Controls"
+<%@ Register Assembly="DevExpress.ExpressApp.Web.v23.1, Version=23.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.ExpressApp.Web.Templates.Controls"
     TagPrefix="xaf" %>
 
 <xaf:XafUpdatePanel ID="UPPopupWindowControl" runat="server">
